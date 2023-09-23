@@ -1,0 +1,15 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Bitter:wght@500&display=swap'),
+
+
+.titel{
+    font-family: 'Bitter', serif !important;
+}
+
+
+::placeholder {
+  color: red;
+  opacity: 1; /* Firefox */
+  
+}
